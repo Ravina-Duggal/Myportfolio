@@ -1,11 +1,11 @@
 
 const Pdata1 = [
   {
-    image: "/assets/img/projects/netflixclone.png",
-    alts: "Netflix-Clone",
-    weblink: "https://netflix-clone-page.netlify.app",
-    title: "Netflix-Clone",
-    button: "https://github.com/Ravina-Duggal/Netflix-Clone",
+    image: "/assets/img/projects/home.png",
+    alts: "homepage",
+    weblink: "https://homepage-main-a.netlify.app",
+    title: "homepage",
+    button: "https://github.com/Ravina-Duggal/homePage-main",
   },
   {
     image: "/assets/img/projects/food.webp",
